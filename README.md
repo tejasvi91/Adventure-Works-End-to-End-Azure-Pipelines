@@ -27,6 +27,10 @@ End  to End Azure dtata engineering Pipeline project by using key services of Az
 ## Original dataset Link from Kaggle : 
 https://www.kaggle.com/datasets/ukveteran/adventure-works
 
+## Data ingestion from github to bronze layer
+Data from git hub to bronze layer at ADLS gen 2 succeeded. Dynamic pipeline was created to ingest 10 csv file by using a json script.
+<img width="1451" height="717" alt="image" src="https://github.com/user-attachments/assets/23b25b40-47c0-429c-aa29-406ec97e7a50" />
+
 
 
 
