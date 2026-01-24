@@ -24,6 +24,10 @@ End  to End Azure dtata engineering Pipeline project by using key services of Az
 20. External Tables in Synapse Analytics
 30. Integrate Data Warehouse with PBI
 
+## Original dataset Link from Kaggle : 
+https://www.kaggle.com/datasets/ukveteran/adventure-works
+
+
 
 
 
