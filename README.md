@@ -1,4 +1,4 @@
-# Adventure-Works-End-to-End-Azure-Pipelines
+# Adventure-Works-End-to-End-Azure-Pipelines:
 End  to End Azure dtata engineering Pipeline project by using key services of Azure like Data Factory, Azure Databricks, Azure Synapse Analytics and more. The medallion architecture is implmented throughout the data flow for better control over data. Dynamic pipelines are created here to experience real time scenario folloed in production.  
 
 ## The Project go through the following phases mentioned below in order: 
@@ -28,10 +28,11 @@ End  to End Azure dtata engineering Pipeline project by using key services of Az
 https://www.kaggle.com/datasets/ukveteran/adventure-works
 
 ## Project Architecture : 
-<img width="1005" height="727" alt="image" src="https://github.com/user-attachments/assets/97ac9076-666f-45b5-adce-6b699987d035" />
+<img width="1027" height="693" alt="image" src="https://github.com/user-attachments/assets/6b56d925-4c1c-4724-9de8-a1db0a98f26f" />
 
 
-## Data ingestion from github to bronze layer
+
+## Data ingestion from github to bronze layer:
 Data from git hub to bronze layer at ADLS gen 2 succeeded. Dynamic pipeline was created to ingest 10 csv file by using a json script.
 <img width="1451" height="717" alt="image" src="https://github.com/user-attachments/assets/23b25b40-47c0-429c-aa29-406ec97e7a50" />
 
