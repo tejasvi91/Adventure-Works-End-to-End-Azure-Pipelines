@@ -1,3 +1,5 @@
+
+--- Key requiremets: 1. credentils, external data source, external file format to create an external table 
 CREATE DATABASE SCOPED CREDENTIAL credential_teja
 WITH 
 IDENTITY = 'Managed Identity';
