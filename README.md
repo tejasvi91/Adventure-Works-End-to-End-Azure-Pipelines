@@ -32,12 +32,15 @@ https://www.kaggle.com/datasets/ukveteran/adventure-works
 
 
 
-## Data ingestion from github to bronze layer:
+## Data ingestion from github to bronze layer :
 Data from git hub to bronze layer at ADLS gen 2 succeeded. Dynamic pipeline was created to ingest 10 csv file by using a json script.
 <img width="1451" height="717" alt="image" src="https://github.com/user-attachments/assets/23b25b40-47c0-429c-aa29-406ec97e7a50" />
 
-## Connection established in powerbi to azure synaplse analytics:
+## Connection established in powerbi to azure synaplse analytics :
 <img width="1481" height="903" alt="image" src="https://github.com/user-attachments/assets/d9e9166d-2e7b-42b5-bb6c-1b6f850b8a4c" />
+
+## Demo vizualization :
+<img width="952" height="630" alt="image" src="https://github.com/user-attachments/assets/b0299038-788e-4496-bf73-5eadb52bdd5d" />
 
 
 
