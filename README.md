@@ -40,7 +40,8 @@ Data from git hub to bronze layer at ADLS gen 2 succeeded. Dynamic pipeline was 
 <img width="1481" height="903" alt="image" src="https://github.com/user-attachments/assets/d9e9166d-2e7b-42b5-bb6c-1b6f850b8a4c" />
 
 ## Demo vizualization :
-<img width="952" height="630" alt="image" src="https://github.com/user-attachments/assets/b0299038-788e-4496-bf73-5eadb52bdd5d" />
+<img width="965" height="599" alt="image" src="https://github.com/user-attachments/assets/f9b3f4c2-f16c-4c84-a5c7-c7490c36a0eb" />
+
 
 
 
