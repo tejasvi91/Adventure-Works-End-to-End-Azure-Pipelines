@@ -1,5 +1,5 @@
 # Adventure-Works-End-to-End-Azure-Pipelines:
-End  to End Azure dtata engineering Pipeline project by using key services of Azure like Data Factory, Azure Databricks, Azure Synapse Analytics and more. The medallion architecture is implmented throughout the data flow for better control over data. Dynamic pipelines are created here to experience real time scenario followed in production.  
+End  to End Azure dtata engineering Pipeline project by using key services of Azure like Azure Data Factory, Azure Databricks, Azure Synapse Analytics and Power BI. The medallion architecture is implmented throughout the data flow for better control over data and bronze, silver and gold layers are created. Dynamic pipelines in ADF are created tol extract multiple files from source using a json script to experience real time scenario followed in production.  
 
 ## The Project go through the following phases mentioned below in order: 
 1. Introduction
